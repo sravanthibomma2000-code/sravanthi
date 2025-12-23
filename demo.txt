@@ -1,0 +1,7 @@
+name: install java packages
+ hosts: local host
+ become : true
+ tasks:
+     -name: instal java on ubuntu os 
+     apt:
+       name: openjdk -17-jdk    
