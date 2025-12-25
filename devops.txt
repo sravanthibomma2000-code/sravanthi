@@ -6,3 +6,5 @@ pipeline{
   stages {
      stage ('chekout'){
         stage  {
+
+devops
