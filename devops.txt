@@ -1,0 +1,15 @@
+
+pipeline{
+   agent any
+ tools{
+   maven 'maven.9.11
+      jdk 'java17'
+  stages {
+     stage ('chekout'){
+        stage  {
+
+   devops{
+new satage
+
+
+
