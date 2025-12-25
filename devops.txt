@@ -1,3 +1,4 @@
+
 pipeline{
    agent any
  tools{
@@ -7,4 +8,8 @@ pipeline{
      stage ('chekout'){
         stage  {
 
-devops
+   devops{
+new satage
+
+
+
