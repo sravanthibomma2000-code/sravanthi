@@ -1,0 +1,9 @@
+devops-demo/
+│── README.md
+│── .gitignore
+│── app.sh
+│── Dockerfile
+│── docker-compose.yml
+│── .github/
+│    └── workflows/
+│        └── ci.yml
